@@ -1,0 +1,3 @@
+#!/bin/bash
+#g++ LCDApp.cpp display/LCDCharacterDisplay.cpp bus/SPIDevice.cpp bus/BusDevice.cpp -o LCDApp
+g++ EthanTest.cpp display/LCDCharacterDisplay.cpp bus/SPIDevice.cpp bus/BusDevice.cpp -o EthanTest
